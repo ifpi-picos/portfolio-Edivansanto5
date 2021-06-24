@@ -1,3 +1,9 @@
-body{
-    background-color: rgb(0, 89, 255);
+
+.cabeçalho{
+    width: 1350px;
+    height: 140px;
+     background-color:  green;
+}
+.logo{
+    padding-left: 1200px;
 }
