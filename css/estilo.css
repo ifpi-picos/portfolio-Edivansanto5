@@ -1,24 +1,41 @@
 
-.cabeçalho{
+.header{
     width: 1350px;
     height: 140px;
-    background-color:  green;
+    background-color:dimgray;
 }
 
 .logo{
-    padding-left: 1200px;
+   margin-top: -125px;
+   padding-left: 1200px;
+      
 }
+.perfil{
+    width: 100px;
+    border-radius: 50%;
+    margin: 10px
+    
+}
+
 
 aside{
-    background-color: red
+    background-color:#cccccc;
+    width: 200px;
+    height: 400px;
+    padding:3px;
+
+    
+}
+main{
+    background-color:aqua;
+   
 }
 
-main{
-    background-color: blue
-}
 
 footer{
-    background-color:green
-    
+    background-color:dimgray;
+    text-align: center;
+    height: 50px;
+    padding: 3px; 
 }
 
