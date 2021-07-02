@@ -2,8 +2,23 @@
 .cabeçalho{
     width: 1350px;
     height: 140px;
-     background-color:  green;
+    background-color:  green;
 }
+
 .logo{
     padding-left: 1200px;
 }
+
+aside{
+    background-color: red
+}
+
+main{
+    background-color: blue
+}
+
+footer{
+    background-color:green
+    
+}
+
