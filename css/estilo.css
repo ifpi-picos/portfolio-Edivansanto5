@@ -1,20 +1,45 @@
 
 .header{
     width: 1350px;
-    height: 140px;
+    height: 180px;
     background-color:darkcyan;
     color:white;
     padding:2px;
 }
-
 aside{
     background-color:darkturquoise;
-    width: 200px;
-    height: 400px;
-    padding:2px;
+    width: 400px;
+    height: 1000px;
+    padding:4px;
+}
 
+h1{
+    padding: 4px;
+}
+h3{
+    text-align: center;
+}
+ul{
+    text-align: justify;
+}
+
+#img1{
+    border-radius: 50%;
+    width: 150px;
+    padding:8px;
+    margin-left: 100px;
     
 }
+#img2 , #img3 {
+    width: 50px;
+    margin-left: 160px;
+    padding: 10px;
+}
+
+figcaption{
+    text-align:center;
+}
+
 main{
     background-color:aqua;
    
