@@ -41,10 +41,17 @@ figcaption{
 }
 
 main{
-    background-color:aqua;
-   
+    float: right;
+    background:white;
+    width: 68.4%;
+    height:994px;
+    padding: 7px;
+    
+    
 }
-
+.profisão,.Formação, .Experiência,.Cursos{
+    padding: 1em;
+}
 
 footer{
     background-color:darkcyan;
