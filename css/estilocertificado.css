@@ -1,0 +1,44 @@
+
+h1{
+    text-align: center;
+    font-size:44px;
+    font-family: Arial, Helvetica;
+    opacity: 0.6;
+    color:white;
+}
+.img1{
+    width:650px;
+    margin: 8px;
+
+}
+button{
+    background-color:rgb(5, 228, 228);
+    font-size:20px;
+    height:30px;
+    margin-left: 1150px;
+    opacity: 0.6;
+}
+
+.img2{
+    width: 658px;
+    
+    
+}
+.img3{
+    width: 708px;
+    padding-left: 300px;
+
+}
+.img4{
+      width: 658px;
+    
+}
+.img5{
+      width: 665px;
+      padding:2px;
+      
+}
+
+
+
+    
