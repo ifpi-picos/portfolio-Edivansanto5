@@ -8,9 +8,6 @@
     
     
 }
-.diagonal-gradient {
-    background: linear-gradient(to bottom right, blue, pink);
-  }
 aside{
     background-color:darkturquoise;
     width: 400px;
@@ -22,7 +19,8 @@ button{
     font-size:20px;
     height:30px;
     margin-left: 1180px;
-    opacity: 0.6;
+    opacity: 0.7;
+    border-radius: 10px;
 }
 
 h1{
@@ -55,10 +53,12 @@ p{
 }
 #imagen5{
     margin-top:-100px;
-    padding-left: 110px;
-
+    padding-left: 110px;   
+}
+#imagen6{
+    padding-left: 130px;
    
-    
+    width: 80px;  
 }
 
 figcaption{
