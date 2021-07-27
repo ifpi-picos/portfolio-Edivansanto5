@@ -84,6 +84,23 @@ main{
 .formação{
     margin-top: 2px;
 }
+#lista{
+    list-style-type: none;
+    list-style: none;
+}
+#ListaLinguagen{
+    list-style-type: none;
+    list-style: none;
+}
+#frame{
+    list-style-type: none;
+    list-style: none;
+}
+#linguagens{
+    list-style-type: none;
+    list-style: none;
+
+}
 
 footer{
     background-color:darkcyan;
